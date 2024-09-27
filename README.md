@@ -1,0 +1,2 @@
+# Ammara
+code for javascript
